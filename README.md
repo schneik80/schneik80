@@ -1,6 +1,6 @@
 ### schneik80
 
-![kevin](Honeyview_headshot square color small.jpg)  
+![kevin](headshot_square_color_small.jpg)  
 
 My name is Kevin Schneider (he, him) and I live in Portland, Oregon. Welcome to a collection of repos.
 
