@@ -1,6 +1,6 @@
 ### schneik80
 
-![kevin](https://www.dropbox.com/s/qbc5bxsea23hrv7/headshot%20square%20color%20small%20-%20Copy.jpeg?dl=1)
+![kevin](https://www.dropbox.com/s/qbc5bxsea23hrv7/headshot%20square%20color%20small%20-%20Copy.jpeg?dl=1 | width = 100)
 
 My name is Kevin Schneider (he, him) and I live in Portland, Oregon. Welcome to a collection of repos.
 
